@@ -1,7 +1,7 @@
 # python-apps-games
 
 <div>
-<h4>Language options</h4>
+<h4>Opciones de idioma</h4>
   <a href="https://github.com/hernanhawryluk/python-apps-games/blob/main/README.md"><img alt="Change language to English" src="https://img.shields.io/badge/language-english-yellow.svg"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.python-apps-games"></a>
 </div>
@@ -32,39 +32,39 @@ Las primeras aplicaciones y juegos que creé en Python, aprovechando las bibliot
 4. Inicia la aplicación:
    - python3 nombre-de-la-apliación.py
 
-## Descripción individual:
+# Descripción individual:
 
-# Timer:
+## Timer:
 
 - timer.py
 - Una aplicación sencilla de temporizador regresivo construida con la biblioteca Tkinter de Python. Configura un temporizador, ponlo en pausa y reanúdala según lo necesites. Una herramienta fácil de usar para ayudarte a gestionar tu tiempo.
 
-# Calculadora:
+## Calculadora:
 
 - calculator.py
 - Una calculadora en Python construida utilizando la biblioteca tkinter. Realiza operaciones matemáticas simples y muestra los resultados en una interfaz de usuario amigable.
 
-# Generador de Contraseñas:
+## Generador de Contraseñas:
 
 - keygen.py
 - Una herramienta simple para generar contraseñas fuertes y seguras.
 
-# Pong Game:
+## Pong Game:
 
 - pong.py
 - Un juego de Pong básico creado con Python y Pygame.
 
-# Snake Game:
+## Snake Game:
 
 - snake.py
 - Un juego clásico de la Serpiente implementado en Python utilizando la biblioteca Pygame. Controla la serpiente, come manzanas y crece mientras evitas colisionar con los límites y contigo mismo. Disfruta del juego con una interfaz visual moderna y atractiva.
 
-# Ta-Te-Ti Game:
+## Ta-Te-Ti Game:
 
 - tic-tac-toe.py
 - Disfruta del clásico juego de Ta-Te-Ti contra un oponente desafiante controlado por inteligencia artificial. Desarrollado con Python y con una interfaz visual moderna creada con Tkinter, este juego ofrece una experiencia contemporánea de un favorito tradicional.
 
-# Juego del Ahorcado:
+## Juego del Ahorcado:
 
 - hangman.py
 - Un juego clásico del ahorcado con una interfaz de consola.
